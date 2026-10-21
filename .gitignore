@@ -1,0 +1,7 @@
+# OS and Editor Artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.tmp
